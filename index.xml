@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>renye&#39;s blog</title>
-        <link>https://example.org/</link>
+        <link>https://renyeluv.github.io/</link>
         <description>renye&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 16:12:58 &#43;0800</lastBuildDate>
-            <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://renyeluv.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Union Find</title>
-    <link>https://example.org/posts/first_post/</link>
+    <link>https://renyeluv.github.io/posts/first_post/</link>
     <pubDate>Thu, 07 Nov 2024 16:12:58 &#43;0800</pubDate><author>
         <name>Author</name>
-    </author><guid>https://example.org/posts/first_post/</guid>
+    </author><guid>https://renyeluv.github.io/posts/first_post/</guid>
     <description><![CDATA[<h1 id="并查集" class="headerLink">
     <a href="#%e5%b9%b6%e6%9f%a5%e9%9b%86" class="header-mark"></a>并查集</h1>]]></description>
 </item></channel>
