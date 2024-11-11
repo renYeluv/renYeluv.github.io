@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - Series - renye&#39;s blog</title>
+        <link>http://localhost:1313/series/</link>
+        <description>Series - Series - renye&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>2108680648@qq.cp, (renye)</managingEditor>
+            <webMaster>2108680648@qq.cp, (renye)</webMaster><atom:link href="http://localhost:1313/series/" rel="self" type="application/rss+xml" /></channel>
+</rss>
