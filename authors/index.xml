@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Authors - Author - renye&#39;s blog</title>
-        <link>http://localhost:1313/authors/</link>
-        <description>Authors - Author - renye&#39;s blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>2108680648@qq.cp, (renye)</managingEditor>
-            <webMaster>2108680648@qq.cp, (renye)</webMaster><atom:link href="http://localhost:1313/authors/" rel="self" type="application/rss+xml" /></channel>
+        <title>Authors - 作者 - Renye&#39;s blog</title>
+        <link>https://hugodoit.pages.dev/authors/</link>
+        <description>Authors - 作者 - Renye&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2108680648@qq.com (renye)</managingEditor>
+            <webMaster>2108680648@qq.com (renye)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://hugodoit.pages.dev/authors/" rel="self" type="application/rss+xml" /></channel>
 </rss>

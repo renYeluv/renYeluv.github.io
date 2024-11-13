@@ -1,0 +1,15 @@
+{
+    "version" : "https://jsonfeed.org/version/1.1",
+    "title" : "Renye's blog",
+    "description": "Renye's blog",
+    "home_page_url" : "https://hugodoit.pages.dev/",
+    "feed_url" : "https://hugodoit.pages.dev/en/index.feed",
+    "icon" : "https://hugodoit.pages.dev/apple-touch-icon.png",
+    "favicon" : "https://hugodoit.pages.dev/favicon.ico",
+    "author" : {
+        "name" : "renye",
+        "url": "https://github.com/renYeluv"
+    },
+    "items" : [
+    ]
+}

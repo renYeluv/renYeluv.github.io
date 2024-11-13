@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Algorithm - 分类 - Renye&#39;s blog</title>
+        <link>https://hugodoit.pages.dev/categories/algorithm/</link>
+        <description>Algorithm - 分类 - Renye&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2108680648@qq.com (renye)</managingEditor>
+            <webMaster>2108680648@qq.com (renye)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 12 Nov 2024 11:19:53 &#43;0800</lastBuildDate><atom:link href="https://hugodoit.pages.dev/categories/algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>算法笔记(1)：并查集</title>
+    <link>https://hugodoit.pages.dev/unionfind/</link>
+    <pubDate>Tue, 12 Nov 2024 11:19:53 &#43;0800</pubDate><author>
+        <name>renye</name>
+    </author><guid>https://hugodoit.pages.dev/unionfind/</guid>
+    <description><![CDATA[<h2 id="前言" class="headerLink">
+    <a href="#%e5%89%8d%e8%a8%80" class="header-mark"></a>1 前言</h2><p>我其实挺喜欢玩解密类的游戏，最早接触的这类游戏应该是诺基亚上的蒙娜丽莎拼图，那个时候总是瞎玩，有时三俩下就拼好，有时10分钟也不见得能成功。</p>]]></description>
+</item></channel>
+</rss>

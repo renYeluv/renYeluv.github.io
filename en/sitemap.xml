@@ -2,32 +2,111 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/posts/</loc><lastmod>2024-11-07T16:12:58&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/</loc><lastmod>2024-11-07T16:12:58&#43;08:00</lastmod><xhtml:link
+            <loc>https://hugodoit.pages.dev/en/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/"
+                        href="https://hugodoit.pages.dev/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/"
+                    href="https://hugodoit.pages.dev/en/categories/documentation/"
                     /></url><url>
-            <loc>http://localhost:1313/posts/first_post/</loc><lastmod>2024-11-07T16:12:58&#43;08:00</lastmod></url><url>
-            <loc>http://localhost:1313/categories/</loc><xhtml:link
+            <loc>https://hugodoit.pages.dev/en/authors/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/categories/"
+                        href="https://hugodoit.pages.dev/authors/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/categories/"
+                    href="https://hugodoit.pages.dev/en/authors/"
                     /></url><url>
-            <loc>http://localhost:1313/tags/</loc><xhtml:link
+            <loc>https://hugodoit.pages.dev/en/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:1313/zh-cn/tags/"
+                        href="https://hugodoit.pages.dev/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/tags/"
+                    href="https://hugodoit.pages.dev/en/categories/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/tags/configuration/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/tags/configuration/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/tags/content/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/tags/content/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/series/getting-start/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/series/getting-start/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/series/getting-start/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/series/how-to-doit/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/series/how-to-doit/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/series/how-to-doit/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/tags/installation/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/tags/installation/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/series/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/tags/"
+                    /></url><url>
+            <loc>https://hugodoit.pages.dev/en/series/test-series/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://hugodoit.pages.dev/series/test-series/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://hugodoit.pages.dev/en/series/test-series/"
                     /></url></urlset>

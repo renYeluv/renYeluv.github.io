@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - Series - Renye&#39;s blog</title>
+        <link>https://hugodoit.pages.dev/en/series/</link>
+        <description>Series - Series - Renye&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>2108680648@qq.com (renye)</managingEditor>
+            <webMaster>2108680648@qq.com (renye)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://hugodoit.pages.dev/en/series/" rel="self" type="application/rss+xml" /><item>
+    <title>Getting start with DoIt</title>
+    <link>https://hugodoit.pages.dev/en/series/getting-start/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>renye</name>
+    </author><guid>https://hugodoit.pages.dev/en/series/getting-start/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>How to DoIt</title>
+    <link>https://hugodoit.pages.dev/en/series/how-to-doit/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>renye</name>
+    </author><guid>https://hugodoit.pages.dev/en/series/how-to-doit/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Test Series</title>
+    <link>https://hugodoit.pages.dev/en/series/test-series/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate><author>
+        <name>renye</name>
+    </author><guid>https://hugodoit.pages.dev/en/series/test-series/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
